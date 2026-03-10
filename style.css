@@ -1,0 +1,85 @@
+body{
+    font-family: Helvetica, sans-serif;
+    background-color: lab(98.98% -2.69 9.8 / 0.774);
+    background-size: cover;
+    color: #0f0e77;
+    margin: 20rem;
+    align-items: center;
+    overflow-wrap: break-word;
+    
+    
+}
+    .author {
+    text-indent: 0rem;
+        
+    }
+ul {
+    list-style-type: circle;
+}
+
+h2, h3, p, ul, ol, .style-table, .style-form {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2.0;
+    font-size: large;
+    text-align: justify;
+}
+
+
+p {
+    text-indent: 20px;
+}
+
+.subheading {
+    text-align: center;
+}
+
+#main-title {
+    font-size: 75pt;
+    font-weight: bolder;
+    line-height: 1;
+    letter-spacing:-8;
+   
+}
+
+#floating-img {
+    display: flex;
+    float: right;
+    border: #0f0e77;
+    border-radius: 41px;
+    margin-left: 15px;
+}
+
+#img-sec-1 {
+    display: flex;
+    border: #0f0e77;
+    border-radius: 41px;
+    margin: 10px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.img-section {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.style-form {
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+.main-table {
+    border: #0f0e77;
+    border-style: groove;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ label {
+    text-decoration: underline;
+ }
