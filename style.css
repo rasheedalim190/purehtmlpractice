@@ -41,12 +41,7 @@ p {
    
 }
 
-#floating-img {
-    display: flex;
-    float: right;
-    border: #0f0e77;
-    border-radius: 41px;
-    margin-left: 15px;
+
 }
 
 #img-sec-1 {
@@ -83,3 +78,4 @@ p {
  .underline {
     text-decoration: underline;
  }
+
